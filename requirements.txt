@@ -1,0 +1,2 @@
+googlesearch-python==1.2.3
+Scrapy==2.6.2
